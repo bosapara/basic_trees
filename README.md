@@ -1,4 +1,4 @@
-# basic_trees
+# Basic Trees
 
 Mod adding 8 simple trees (with normal size) based at MTS models
 
