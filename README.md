@@ -9,9 +9,6 @@ Mod adding 8 simple trees (with normal size) based at MTS models
 used part of 'real_trees' code;
 some textures and models from: ethereal, mineclone, moretrees, lord of the test, mc
 
-________________________________________________
-
-
 
 cypress, eucalyptus, willow, sequoia, birch, maple, oak, cedar
 
